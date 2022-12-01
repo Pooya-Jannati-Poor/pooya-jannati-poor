@@ -31,4 +31,10 @@ I've been learning Java and Kotlin for about four years. I always try to keep my
 <a href="https://www.buymeacoffee.com/poya181"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!--START_SECTION:waka-->
+
+<img
+  src="https://github.com/Pooya-Jannati-Poor/pooya-jannati-poor/blob/main/images/stat.svg"
+  alt="Waka Stats"
+/>
+
 <!--END_SECTION:waka-->
