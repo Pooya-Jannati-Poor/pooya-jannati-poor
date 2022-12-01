@@ -29,3 +29,6 @@ I've been learning Java and Kotlin for about four years. I always try to keep my
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/poya181"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
