@@ -32,9 +32,5 @@ I've been learning Java and Kotlin for about four years. I always try to keep my
 
 <!--START_SECTION:waka-->
 
-<img
-  src="https://github.com/Pooya-Jannati-Poor/pooya-jannati-poor/blob/main/images/stat.svg"
-  alt="Waka Stats"
-/>
 
 <!--END_SECTION:waka-->
